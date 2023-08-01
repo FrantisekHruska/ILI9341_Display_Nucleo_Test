@@ -24,6 +24,8 @@
 ### SPI clock configuration
 ![SPI clock](img/Screenshot_20230731_214813.png)
 
+### SPI DMA setup
+![DMA setup](img/Screenshot_20230801_131318.png)
 
 ### Connections
 |Nucleo PIN|Display PIN|
